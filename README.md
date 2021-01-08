@@ -20,6 +20,7 @@ Future users may be required to update the scraping methods due to several reaso
 
 
 
+
 <h2><u><b>Potential Uses</b></u></h2>
 - Grayscale trading indicators (e.g. Market Per Share premium over Holdings Per Share is traditionally viewed as a bulish event as it shows us institutional investors are willing to pay a premium for the assets, believing that price growth will offset the premiums.)
 - Grayscale AUM charts (e.g. If Grayscale AUM has been liquidating assets for a period of time, it may be viewed as a bearish event as institutional investors are selling their assets for the long term.)
@@ -32,6 +33,7 @@ Future users may be required to update the scraping methods due to several reaso
 - Cloudscraper (https://pypi.org/project/cloudscraper/)
 - BeautifulSoup (https://pypi.org/project/beautifulsoup4/)
 - CSV (https://pypi.org/project/python-csv/)
+
 
 
 
