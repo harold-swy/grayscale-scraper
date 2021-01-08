@@ -31,5 +31,4 @@ Future users may be required to update the scraping methods due to several reaso
 
 <h2><u><b>Screenshots</b></u></h2>
 
-![Image of scraper] (https://github.com/harold-swy/grayscale-scraper/blob/main/Screenshot.png)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of scraper](https://github.com/harold-swy/grayscale-scraper/blob/main/Screenshot.png)
