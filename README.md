@@ -31,9 +31,13 @@ Future users may be required to update the scraping methods due to several reaso
 
 
 <h2><u><b>Requirements</b></u></h2>
+
 - Python 3.8< 
+
 - Cloudscraper (https://pypi.org/project/cloudscraper/)
+
 - BeautifulSoup (https://pypi.org/project/beautifulsoup4/)
+
 - CSV (https://pypi.org/project/python-csv/)
 
 
