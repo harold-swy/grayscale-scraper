@@ -26,7 +26,7 @@ Future users may be required to update the scraping methods due to several reaso
 
 
 
-- Grayscale AUM charts (e.g. If Grayscale AUM has been liquidating assets for a period of time, it may be viewed as a bearish event as institutional investors are selling their assets for the long term.)
+- Grayscale AUM charts (e.g. If Grayscale AUM has been falling for a period of time, it may be viewed as a bearish event as institutional investors are selling their assets for the long term while few investors are entering with fresh buys to offset the selling)
 
 
 
