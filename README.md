@@ -16,7 +16,13 @@ Grayscale does not provide an API for its users, so scraping is necessary to obt
 
 Grayscale uses Cloudflare's Bot Management which makes it difficult for bots to scrape data from their site. I used VeNoMouS's Cloudscraper module to bypass Cloudflare's Bot Management. The program parses the HTML response and generates a CSV file with the following data: Asset Name, AUM ($), Shares Outstanding, <Asset> per share, holdings per share ($), and Market Price Per Share. This program was developed in and is fully working as of January 2021. 
   
-Future users may be required to update the scraping methods due to several reasons such as but not limited to: 1) Cloudflare deploying new defenses against scraping, 2) Cloudscraper Module is no longer updated / available (Selenium is a potential alternative scraping method), 3) Grayscale changing HTML/CSS elements on their website.
+Future users may be required to update the scraping methods due to several reasons such as but not limited to: 
+
+1) Cloudflare deploying new defenses against scraping 
+
+2) Cloudscraper Module is no longer updated / available (Selenium is a potential alternative scraping method)
+
+3) Grayscale changing HTML/CSS elements on their website.
 
 
 
