@@ -22,7 +22,7 @@ Future users may be required to update the scraping methods due to several reaso
 
 2) Cloudscraper Module is no longer updated / available (Selenium is a potential alternative scraping method)
 
-3) Grayscale changing HTML/CSS elements on their website.
+3) Grayscale revamping their web design
 
 
 
