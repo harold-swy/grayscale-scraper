@@ -24,6 +24,8 @@ Future users may be required to update the scraping methods due to several reaso
 
 3) Grayscale revamping their web design
 
+4) Grayscale adds / removes assets from the site
+
 
 
 
