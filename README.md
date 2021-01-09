@@ -6,7 +6,7 @@ A web scraping tool for Grayscale.co
 
 <h2><u><b>Introduction</b></u></h2>
 
-This is a tool I made for Hyblock Capital to scrape AUM data from Grayscale, the largest digital assets management firm with more than $13B AUM as of Jan 2021.
+This is a tool I made for Hyblock Capital to scrape AUM data from Grayscale, the largest digital assets management firm with more than $23B AUM as of Jan 2021.
 Grayscale does not provide an API for its users, so scraping is necessary to obtain AUM data.
 
 
