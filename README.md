@@ -1,5 +1,5 @@
 # grayscale-scraper
-A scraping tool for Grayscale.co
+A web scraping tool for Grayscale.co
 
 
 
